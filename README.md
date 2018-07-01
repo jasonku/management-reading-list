@@ -23,6 +23,7 @@ Pull requests welcome.
 * Managing to Change the World (Alison Pylkkänen and Jerry Hauser)
 * The 5 Elements of Effective Thinking (Edward Burger and Michael Starbird)
 * First, Break All the Rules (Marcus Buckingham)
+* Managing the Unmanageable (Mickey W. Mantle and Ron Lichty)
 
 ## Online Resources
 
