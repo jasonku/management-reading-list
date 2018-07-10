@@ -37,3 +37,4 @@ Pull requests welcome.
 * [How Facebook Tries to Prevent Office Politics](https://hbr.org/2016/06/how-facebook-tries-to-prevent-office-politics)
 * [The Engineer to Manager Transition](https://www.slideshare.net/TeamableHires/surviving-the-engineer-tomanager-transition)
 * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
+* [The Curious Transition to Engineering Manager](https://blog.gitprime.com/transition-to-engineering-manager/)
